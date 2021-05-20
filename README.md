@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Zack 👋</h1>
-[![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NotDiamondZ.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/NotDiamondZ)
+<h1 align="center">Hello, I'm Zack 👋</h1>  
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NotDiamondZ.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github"></a>
 
 - 👨‍💻 My website <a href="https://xitzdiamondx.github.io" target="_blank">is here</a> <a href="https://github.com/xItzDiamondx/xItzDiamondx.github.io" alt="Source Code">Source Code</a>  
 
