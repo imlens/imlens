@@ -2,6 +2,8 @@
 <h1 align="center">Hello, I'm Zack 👋</h1>  
 <img src = "https://github-readme-stats.vercel.app/api?username=NotDiamondZ&theme=tokyonight"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitzdiamondx&theme=radical"><br>
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NotDiamondZ.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github"></a>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=NotDiamondZ&theme=radical">
 </div>
 - 👨‍💻 My website <a href="https://xitzdiamondx.github.io" target="_blank">is here</a> <a href="https://github.com/xItzDiamondx/xItzDiamondx.github.io" alt="Source Code">Source Code</a>  
 
