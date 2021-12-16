@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xLunarr&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
   <img src="https://img.shields.io/badge/OS-Linux-lightgrey/?logo=linux" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
-  <img src="https://img.shields.io/reddit/user-karma/combined/xItzDiamond_?logo=reddit" alt="Reddit User Karma">
+  <img src="https://img.shields.io/reddit/user-karma/combined/ItzDiamondZ_?logo=reddit" alt="Reddit User Karma">
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
