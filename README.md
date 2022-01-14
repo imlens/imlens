@@ -3,13 +3,13 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xLunarr&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
-  <img src="https://img.shields.io/badge/OS-Linux-lightgrey/?logo=linux" alt="os">
+  <img src="https://img.shields.io/badge/OS-Windows-lightgrey/?logo=windows" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
   <img src="https://img.shields.io/reddit/user-karma/combined/ItzDiamondZ_?logo=reddit" alt="Reddit User Karma">
   <img src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954" alt="music">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
-  <img alt="gmail" src="https://img.shields.io/badge/Uses-ProtonMail-blue/?logo=protonmail&logoColor=warning&color=red">
+  <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
   <img alt="opera" src="https://img.shields.io/badge/Uses-Brave-blue/?logo=Brave&logoColor=ff1b2d&color=ff1b2d">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/xLunarr?label=Sponsors&logo=githubsponsors&style=flat">
@@ -17,10 +17,12 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/xLunarr?color=g&label=User%20Followers&logo=github">
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xLunarr&theme=discord" alt="3kh0" /></a> </p>
+btw i use windows 11 its just they wont let me show it. :/
+
 
 - 🔭 I’m currently working on [my new website](https://github.com/xLunarr/automatic-octo-tribble).
 
-- 📫 How to reach me [my epic discord server (coming soon!)](#).
+- 📫 How to reach me [my epic discord server (NOW AVAILABLE!)](https://discord.com/invite/94wKaTzP4h).
 
 - ⚡ Fun fact [I have a pretty cool website](https://www.lunarr.cf/automatic-octo-tribble/src/html)!
 
