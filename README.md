@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="opera" src="https://img.shields.io/badge/Uses-GoogleChrome-blue/?logo=Google-Chrome&logoColor=ff1b2d&color=ff1b2d">
+  <img alt="brave" src="https://img.shields.io/badge/Uses-Brave-blue/?logo=Brave&logoColor=ff1b2d&color=ff1b2d">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/xLunarr?label=Sponsors&logo=githubsponsors&style=flat">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xLunarr?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
