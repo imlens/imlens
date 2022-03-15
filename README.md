@@ -16,15 +16,15 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xLunarr?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/xLunarr?color=g&label=User%20Followers&logo=github">
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xLunarr&theme=discord" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xLunarr&theme=discord" alt="Lunar" /></a> </p>
 btw i use windows 11 its just they wont let me show it. :/
 
 
 - 🔭 I’m currently working on [my new website](https://github.com/xLunarr/automatic-octo-tribble).
 
-- 📫 How to reach me [my epic discord server (NOW AVAILABLE!)](https://discord.com/invite/94wKaTzP4h).
+- 📫 How to reach me [my epic discord server (NOW AVAILABLE!)](https://discord.gg/94wKaTzP4h).
 
-- ⚡ Fun fact [I have a pretty cool website](https://www.lunarr.cf/automatic-octo-tribble/src/html)!
+- ⚡ Fun fact im an epic gamer
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
