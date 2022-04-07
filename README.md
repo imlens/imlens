@@ -17,7 +17,6 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/xLunarr?color=g&label=User%20Followers&logo=github">
        </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xLunarr&theme=discord" alt="Lunar" /></a> </p>
-btw i use windows 11 its just they wont let me show it. :/
 
 
 - 🔭 I’m currently working on [my new website](https://github.com/xLunarr/automatic-octo-tribble).
