@@ -1,4 +1,4 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Lunar!;HTML+Coder;Epic+Gamer;Talk+to+me+on+my+discord!">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Lunar+(aka+coxal)!;HTML+Coder;Epic+Gamer;Talk+to+me+on+my+discord!">
 <h1 align="center">Hi 👋, I'm Lunar (aka coxal)</h1>
 <h2>About me</h2>
 <p align="left"> 
